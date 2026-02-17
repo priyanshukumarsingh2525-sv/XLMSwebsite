@@ -25,7 +25,7 @@ import MyEnrolledCourse from './pages/MyEnrolledCourse.jsx'
 import Freecourses from './pages/Freecourses.jsx'
 import getAllReviews from './customHooks/getAllReviews.js'
 import SearchWithAi from './pages/SearchWithAi.jsx'
-export const serverUrl = "http://localhost:8000"
+export const serverUrl = "https://xlmswebsite.onrender.com"
 
 const App = () => {
    
