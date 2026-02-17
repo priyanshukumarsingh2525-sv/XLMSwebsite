@@ -57,7 +57,7 @@ const CreateCourses = () => {
                  <option value="Ethical Hacking">Ethical Hacking</option>
                  <option value="UI UX Designing">UI UX Designing</option>
                  <option value="Web Development">Web Development</option>
-                 <option value="Other">Other</option>
+                 <option value="Others">Other</option>
             </select>
           </div>
           <button className='w-full bg-black text-white py-2 px-4 rounded-md active:bg-[#3a3a3a] transition' disabled={loading}
