@@ -10,7 +10,7 @@ import CardPage from '../component/CardPage';
 import { useNavigate } from 'react-router-dom';
 import About from '../component/About';
 import Footer from '../component/Footer';
-import ReviewPage from './reviewPage';
+import ReviewPage from './ReviewPage';
 
 const Home = () => {
   const navigate = useNavigate()
