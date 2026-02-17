@@ -205,7 +205,7 @@ const EditCourse = () => {
                  <option value="Ethical Hacking">Ethical Hacking</option>
                  <option value="UI UX Designing">UI UX Designing</option>
                  <option value="Web Development">Web Development</option>
-                 <option value="Other">Other</option>
+                 <option value="Others">Other</option>
               </select>
             </div>
 
